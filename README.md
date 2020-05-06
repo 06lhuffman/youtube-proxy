@@ -29,3 +29,4 @@ TODO:
 
 * supervise scripts
 * optionally stream live stream videos
+[![Run on Repl.it](https://repl.it/badge/github/majestrate/youtube-proxy)](https://repl.it/github/majestrate/youtube-proxy)
